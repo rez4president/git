@@ -1,0 +1,10 @@
+git init
+git status
+git add file name
+git commit -m "message what you are adding"
+git push 
+git pull - to pull the latest changes from git
+git log - shows all the changes we made 
+git checkout - hashcode - this can let us restore back to what we changed.
+git merge branch name - merges the the other branches with the main branch
+

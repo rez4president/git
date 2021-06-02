@@ -1,0 +1,1 @@
+alert("Hello there! Welcome to learning how to use Git")
